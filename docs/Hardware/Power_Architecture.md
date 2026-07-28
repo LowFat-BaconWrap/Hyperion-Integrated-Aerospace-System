@@ -18,4 +18,5 @@ RPI --> ARDUINO[Arduino Nano<br>Main launch controller]
 ```
 ## More Technical Schematic
 Keep in mind this schematic is SUPER simplified and only show the rough idea of the power system.
+
 <img width="2339" height="1654" alt="Helios Power Schematic-1" src="https://github.com/user-attachments/assets/c12f39d8-8ada-4ce3-b512-25011eaa5902" />
